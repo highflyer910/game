@@ -1,7 +1,7 @@
 var canvas;
 	var canvasContext;
-    var ballX = 50;
-    var ballY = 50;
+    var ballX = 45;
+    var ballY = 45;
     var ballSpeedX = 10;
     var ballSpeedY = 4;
 
