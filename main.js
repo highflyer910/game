@@ -1,13 +1,13 @@
 var canvas;
 	var canvasContext;
-    var ballX = 45;
-    var ballY = 45;
+    var ballX = 50;
+    var ballY = 50;
     var ballSpeedX = 10;
     var ballSpeedY = 4;
 
     var player1Score = 0;
     var player2Score = 0;
-    const WINNING_SCORE = 3;
+    const WINNING_SCORE = 5;
 
     var showingWinScreen = false;
 
